@@ -1,7 +1,7 @@
-myList = []
-myList.append(1)
-myList.append(2)
-myList.append(3)
+myList = [1,2,3]
+myList.append(10)
+myList.append(20)
+myList.append(30)
 
 print(myList[0])
 print(myList[1])
