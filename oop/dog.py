@@ -1,4 +1,3 @@
-
 from animal import Animal
 
 #subclass of animal
